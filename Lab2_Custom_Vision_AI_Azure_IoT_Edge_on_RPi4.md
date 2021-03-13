@@ -73,7 +73,9 @@ Below extensions are needed.
 - Azure Account
 - Azure IoT Tools
 Search from extensions and install them.
+
     ![Install Account Account](images/Lab2/3-4-1.png)
+    
     ![Install Azure IoT Tools](images/Lab2/3-4-2.png)
 
 
@@ -103,32 +105,50 @@ Follow below picture to connect the device.
 ### 4.3 Configure Raspberry Pi 4
 
 - Switch the button to ON.  
+
 - Run `Camera app` from your local PC. `Switch camera` if you don't see the Raspberry OS screen.
+
   ![Camera](images/Lab2/4-3-1.png)
+  
 - Make a note of the `IP address` of your Raspberry Pi.
 - Click `Next` on `Set Country` screen.
+
   ![Set Country](images/Lab2/4-3-2.png)
+  
 - Click `Next` on `Change Password` screen. Don't change it. Just click `Next`.
   - Default username: pi
   - Default password: raspberry
-    ![Change password](images/Lab2/4-3-3.png)
+ 
+  ![Change password](images/Lab2/4-3-3.png)
+    
 - Click `Next` on `Set Up Screen` screen.
-    ![Set Up Screen](images/Lab2/4-3-4.png)
+
+  ![Set Up Screen](images/Lab2/4-3-4.png)
+    
 - Click `Skip` on `Select WiFI Network`screen.
-    ![Select WiFi](images/Lab2/4-3-5.png)
+
+  ![Select WiFi](images/Lab2/4-3-5.png)
+    
 - Click `Skip` on `Update Software` screen.
-    ![Update Software](images/Lab2/4-3-6.png)
+
+  ![Update Software](images/Lab2/4-3-6.png)
+    
 - Click `Later` on `Setup Complete` screen, or you may leave it there to restart later.
-    ![Setup Complete](images/Lab2/4-3-7.png)
+  ![Setup Complete](images/Lab2/4-3-7.png)
 
 - Click `Raspberry Pi icon > Preferences > Raspberry Pi Configuration`.
-    ![Pi Configuration](images/Lab2/4-3-8.png)
-    ![Pi Configuration](images/Lab2/4-3-9.png)
+  
+  ![Pi Configuration](images/Lab2/4-3-8.png)
+  
+  ![Pi Configuration](images/Lab2/4-3-9.png)
     
 - CLick `Interfaces > Enable SSH, SPI, I2C`.
-    ![Pi Configuration](images/Lab2/4-3-10.png)
+  
+  ![Pi Configuration](images/Lab2/4-3-10.png)
+  
 - Click OK and then Yes on `Reboot needed` screen.
-    ![Pi Configuration](images/Lab2/4-3-11.png)
+  
+  ![Pi Configuration](images/Lab2/4-3-11.png)
     
 - Unplug the `keyboard, mouse, video capture card`, keep the `ethernet cable, power cord` connected. Share them to others to configure.
   
