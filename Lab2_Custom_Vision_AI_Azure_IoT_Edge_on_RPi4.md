@@ -57,8 +57,10 @@ Then RDP to Windows 10 VM on Azure. For example:
 - Double click to install.
 - You may be prompted to install WSL2 Kernel. 
     ![Restart Docker](images/Lab2/3-2-1.png)
+    
   Click the [link](https://aka.ms/wsl2kernel), download WSL2 Linux kernel update package and install it. 
     ![Install WSL](images/Lab2/3-2-2.png)
+    
 - Restart Docker once successfully and you will see Docker Desktop is running.
     ![Install WSL](images/Lab2/3-2-3.png)
 
