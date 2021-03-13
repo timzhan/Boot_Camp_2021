@@ -374,7 +374,7 @@ Below code snippet show how to invoke a command.
 
 Run the sample, you will see Command getMaxMinReport was invoked.
 
-   ![Invoke command](images/Lab1/5-3-1.png)
+   ![Invoke command](images/Lab1/5-3-2.png)
 
 
 **< The END of Lab #1 >**
