@@ -378,14 +378,14 @@ Click `Select IoT Hub` from Azure IoT Hub panel > `Select Subscriptioin` > `Sele
 
 ![Connect IoT hub](images/Lab2/6-5-1.png)
 
-### 7.6 Login to ACR
+### 6.6 Login to ACR
 Login to `Azure container registry` by running below command from `Terminal` window.
 
     docker login -u <ACR username> -p <ACR password> <ACR login server>
 
 You will be promted "Login Succeeded".
 
-![ACR Login](images/Lab2/7-6-1.png)
+![ACR Login](images/Lab2/6-6-1.png)
 
 
 
